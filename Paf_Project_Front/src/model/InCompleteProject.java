@@ -25,6 +25,7 @@ public class InCompleteProject {
 		 return con;
 		 }
 
+		//insertion
 		public String insertInnovativeProjects(String rid, String code, String name, String desc, String skills, String budget,String no_of_funds,String amount)
 		 {
 			String output = "";
