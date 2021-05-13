@@ -32,6 +32,8 @@ pageEncoding="ISO-8859-1"%>
  <input id="btnSave" name="btnSave" type="button" value="Save" class="btn btn-primary">
  <input type="hidden" id="hidItemIDSave" name="hidItemIDSave" value="">
 </form>
+
+<a href="InCompleteProjects.jsp">Do you want to upload an innovetive project</a>
 <div id="alertSuccess" class="alert alert-success"></div>
 <div id="alertError" class="alert alert-danger"></div>
 <br>
