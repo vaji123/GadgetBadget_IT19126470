@@ -8,7 +8,7 @@ pageEncoding="ISO-8859-1"%>
 <title>Items Management</title>
 <link rel="stylesheet" href="Views/bootstrap.min.css">
 <script src="Components/jquery-3.2.1.min.js"></script>
-<script src="Components/Incomplete_projects.js"></script>
+<script src="Components/incomplete_projects.js"></script>
 </head>
 <body> 
 <div class="container"><div class="row"><div class="col-6"> 
@@ -29,7 +29,7 @@ pageEncoding="ISO-8859-1"%>
  <br> No of funds made: 
  <input id="no_of_funds_made" name="no_of_funds_made" type="text" class="form-control form-control-sm">
   <br> Amount to fund: 
- <input id="Amount_to_fund" name="Amount_to_fund" type="text" class="form-control form-control-sm">
+ <input id="amount_to_fund" name="amount_to_fund" type="text" class="form-control form-control-sm">
  <br>
  
  <input id="btnSave" name="btnSave" type="button" value="Save" class="btn btn-primary">
